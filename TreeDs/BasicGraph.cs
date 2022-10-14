@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TreeDs
 {
-    internal class BasicGraph
+    public class BasicGraph
     {
         // Constructor
         public BasicGraph(int n)
